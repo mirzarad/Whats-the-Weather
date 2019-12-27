@@ -1,8 +1,6 @@
 # Whats-the-Weather-
 Welcome to "What's the Weather?"! Enter the name of the city whose weather forecast you want to lookup
 
----Some Exapmples---
-
 London:
 <br />
 ![alt text](Screenshots/London-test.png "London Weather Lookup")
